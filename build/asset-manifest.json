@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b7c83e2.css",
+    "main.js": "/static/js/main.dc491483.js",
+    "static/js/787.571a6560.chunk.js": "/static/js/787.571a6560.chunk.js",
+    "static/media/BG.png": "/static/media/BG.0b42de2aea4463e6e5e9.png",
+    "static/media/Group 23.png": "/static/media/Group 23.c256bae4424f969e8b4c.png",
+    "static/media/Group 20.png": "/static/media/Group 20.3f0b98eba9534d56eb40.png",
+    "static/media/SourceSansPro-Regular.ttf": "/static/media/SourceSansPro-Regular.ed3e1a0f0cbd41e2d920.ttf",
+    "static/media/SourceSansPro-SemiBold.ttf": "/static/media/SourceSansPro-SemiBold.623603c20b9700d7381a.ttf",
+    "static/media/SourceSansPro-Black.ttf": "/static/media/SourceSansPro-Black.b6442b58c23407845833.ttf",
+    "static/media/SourceSansPro-Bold.ttf": "/static/media/SourceSansPro-Bold.18576555c63acf01da1e.ttf",
+    "static/media/SourceSansPro-ExtraLight.ttf": "/static/media/SourceSansPro-ExtraLight.2a6b668cae4b9b05bff0.ttf",
+    "static/media/SourceSansPro-Light.ttf": "/static/media/SourceSansPro-Light.fd3ce6c4ed2f75277f68.ttf",
+    "static/media/Group 22.png": "/static/media/Group 22.c3ef1c236c61ebe2036a.png",
+    "static/media/user1.png": "/static/media/user1.a78f8f7380c688de97c0.png",
+    "static/media/Group 21.png": "/static/media/Group 21.69fc2a534d61ae6c8599.png",
+    "static/media/Group 24.png": "/static/media/Group 24.eafb5a424c07afc87deb.png",
+    "static/media/box logo.png": "/static/media/box logo.da30cd6935bb5b29afb9.png",
+    "static/media/SourceSansPro-LightItalic.ttf": "/static/media/SourceSansPro-LightItalic.5959ce01fd9ec0806cad.ttf",
+    "static/media/SourceSansPro-ExtraLightItalic.ttf": "/static/media/SourceSansPro-ExtraLightItalic.82bfefedc2086c4d39cf.ttf",
+    "static/media/SourceSansPro-Italic.ttf": "/static/media/SourceSansPro-Italic.265b764b206ea152525b.ttf",
+    "static/media/SourceSansPro-SemiBoldItalic.ttf": "/static/media/SourceSansPro-SemiBoldItalic.e982555229bb0da8a34c.ttf",
+    "static/media/SourceSansPro-BoldItalic.ttf": "/static/media/SourceSansPro-BoldItalic.ed7f9067e3208bac9e94.ttf",
+    "static/media/SourceSansPro-BlackItalic.ttf": "/static/media/SourceSansPro-BlackItalic.eb8408e37f4eb4cfffdf.ttf",
+    "static/media/paypal.png": "/static/media/paypal.f1ace83d8128af7754b6.png",
+    "static/media/dummyHeaderLogo.png": "/static/media/dummyHeaderLogo.ef8be43c1cce43b32668.png",
+    "static/media/paymentMethods.png": "/static/media/paymentMethods.9462236594f01452e4ca.png",
+    "static/media/simple 14.png": "/static/media/simple 14.ba955d0e4ca73a916276.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ri_capsule-fill.svg": "/static/media/ri_capsule-fill.d40a770c8a20f1022f4a1bc018f72394.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2b7c83e2.css",
+    "static/js/main.dc491483.js"
+  ]
+}
