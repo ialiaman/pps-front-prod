@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/john/static/css/main.279e137d.css",
-    "main.js": "/john/static/js/main.c88fc2d2.js",
+    "main.css": "/john/static/css/main.3cbb0022.css",
+    "main.js": "/john/static/js/main.281c5a59.js",
     "static/js/787.571a6560.chunk.js": "/john/static/js/787.571a6560.chunk.js",
+    "static/media/chart.png": "/john/static/media/chart.afb1d55b3a3ad4eed8f4.png",
+    "static/media/Mask Group.png": "/john/static/media/Mask Group.ea5ee1129bad6bd919a5.png",
+    "static/media/IMG0081.png": "/john/static/media/IMG0081.6f76cd0170a15a6eb9b0.png",
+    "static/media/Group 37.png": "/john/static/media/Group 37.150470ce50aac535bbfa.png",
+    "static/media/BANNER.png": "/john/static/media/BANNER.3e83fdbe66da69da86b3.png",
     "static/media/Group 23.png": "/john/static/media/Group 23.c256bae4424f969e8b4c.png",
     "static/media/Group 20.png": "/john/static/media/Group 20.3f0b98eba9534d56eb40.png",
     "static/media/SourceSansPro-Regular.ttf": "/john/static/media/SourceSansPro-Regular.ed3e1a0f0cbd41e2d920.ttf",
@@ -14,7 +19,12 @@
     "static/media/Group 22.png": "/john/static/media/Group 22.c3ef1c236c61ebe2036a.png",
     "static/media/user1.png": "/john/static/media/user1.a78f8f7380c688de97c0.png",
     "static/media/Group 21.png": "/john/static/media/Group 21.69fc2a534d61ae6c8599.png",
+    "static/media/ProductHeaderleft.png": "/john/static/media/ProductHeaderleft.a4d58522416ee5f3e143.png",
+    "static/media/cardimage.png": "/john/static/media/cardimage.2bf529390f45d17ba88a.png",
     "static/media/Group 24.png": "/john/static/media/Group 24.eafb5a424c07afc87deb.png",
+    "static/media/Group 35.png": "/john/static/media/Group 35.4c0322d0553090dba271.png",
+    "static/media/B13.png": "/john/static/media/B13.33efb737e89050e9f9c3.png",
+    "static/media/B11.png": "/john/static/media/B11.53d821aba2daab2a21e5.png",
     "static/media/box logo.png": "/john/static/media/box logo.da30cd6935bb5b29afb9.png",
     "static/media/SourceSansPro-LightItalic.ttf": "/john/static/media/SourceSansPro-LightItalic.5959ce01fd9ec0806cad.ttf",
     "static/media/SourceSansPro-ExtraLightItalic.ttf": "/john/static/media/SourceSansPro-ExtraLightItalic.82bfefedc2086c4d39cf.ttf",
@@ -22,16 +32,22 @@
     "static/media/SourceSansPro-SemiBoldItalic.ttf": "/john/static/media/SourceSansPro-SemiBoldItalic.e982555229bb0da8a34c.ttf",
     "static/media/SourceSansPro-BoldItalic.ttf": "/john/static/media/SourceSansPro-BoldItalic.ed7f9067e3208bac9e94.ttf",
     "static/media/SourceSansPro-BlackItalic.ttf": "/john/static/media/SourceSansPro-BlackItalic.eb8408e37f4eb4cfffdf.ttf",
+    "static/media/2.png": "/john/static/media/2.2ec134c13afd3d14088e.png",
+    "static/media/4.png": "/john/static/media/4.382291f6f22279d3d96f.png",
+    "static/media/1.png": "/john/static/media/1.6782d1aae02a6ea5aee0.png",
+    "static/media/3.png": "/john/static/media/3.28dd866d91523af153eb.png",
     "static/media/paypal.png": "/john/static/media/paypal.f1ace83d8128af7754b6.png",
+    "static/media/accordianImg.png": "/john/static/media/accordianImg.f1154f8039dae70e5961.png",
     "static/media/dummyHeaderLogo.png": "/john/static/media/dummyHeaderLogo.ef8be43c1cce43b32668.png",
     "static/media/paymentMethods.png": "/john/static/media/paymentMethods.9462236594f01452e4ca.png",
     "static/media/simple 14.png": "/john/static/media/simple 14.ba955d0e4ca73a916276.png",
-    "static/media/logo.svg": "/john/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ProductHeader.png": "/john/static/media/ProductHeader.5ecd6da20484fde19c8c.png",
+    "static/media/Rectangle 153.png": "/john/static/media/Rectangle 153.497f2b2da775251b6a86.png",
     "static/media/ri_capsule-fill.svg": "/john/static/media/ri_capsule-fill.d40a770c8a20f1022f4a1bc018f72394.svg",
     "index.html": "/john/index.html"
   },
   "entrypoints": [
-    "static/css/main.279e137d.css",
-    "static/js/main.c88fc2d2.js"
+    "static/css/main.3cbb0022.css",
+    "static/js/main.281c5a59.js"
   ]
 }
