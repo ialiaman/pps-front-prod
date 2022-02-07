@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/john/static/css/main.f684484c.css",
-    "main.js": "/john/static/js/main.ccbaa3be.js",
-    "static/js/787.571a6560.chunk.js": "/john/static/js/787.571a6560.chunk.js",
-    "static/media/Group53.png": "/john/static/media/Group53.cae1e7488ef6f8d74bff.png",
+    "main.css": "/john/static/css/main.789c8454.css",
+    "main.js": "/john/static/js/main.abd74c2b.js",
+    "static/js/787.a453ccac.chunk.js": "/john/static/js/787.a453ccac.chunk.js",
     "static/media/Group58.png": "/john/static/media/Group58.e8cf79d05e9b10e34aa4.png",
     "static/media/Group 70.png": "/john/static/media/Group 70.5984372625aa031dfdce.png",
     "static/media/BANNER.png": "/john/static/media/BANNER.320725e69d9ece45b7a0.png",
@@ -67,10 +66,13 @@
     "static/media/CompanyLogo.png": "/john/static/media/CompanyLogo.fa734208bc20a4a5b0e1.png",
     "static/media/Rectangle 153.png": "/john/static/media/Rectangle 153.497f2b2da775251b6a86.png",
     "static/media/ri_capsule-fill.svg": "/john/static/media/ri_capsule-fill.d40a770c8a20f1022f4a1bc018f72394.svg",
-    "index.html": "/john/index.html"
+    "index.html": "/john/index.html",
+    "main.789c8454.css.map": "/john/static/css/main.789c8454.css.map",
+    "main.abd74c2b.js.map": "/john/static/js/main.abd74c2b.js.map",
+    "787.a453ccac.chunk.js.map": "/john/static/js/787.a453ccac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f684484c.css",
-    "static/js/main.ccbaa3be.js"
+    "static/css/main.789c8454.css",
+    "static/js/main.abd74c2b.js"
   ]
 }
