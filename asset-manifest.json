@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/john/static/css/main.31df683e.css",
-    "main.js": "/john/static/js/main.b61c4ee2.js",
+    "main.css": "/john/static/css/main.5063f3a5.css",
+    "main.js": "/john/static/js/main.6fd468a0.js",
     "static/js/787.a453ccac.chunk.js": "/john/static/js/787.a453ccac.chunk.js",
     "static/media/Group58.png": "/john/static/media/Group58.e8cf79d05e9b10e34aa4.png",
     "static/media/Group 70.png": "/john/static/media/Group 70.5984372625aa031dfdce.png",
@@ -61,18 +61,17 @@
     "static/media/accordianImg.png": "/john/static/media/accordianImg.f1154f8039dae70e5961.png",
     "static/media/dummyHeaderLogo.png": "/john/static/media/dummyHeaderLogo.ef8be43c1cce43b32668.png",
     "static/media/paymentMethods.png": "/john/static/media/paymentMethods.9462236594f01452e4ca.png",
-    "static/media/simple 14.png": "/john/static/media/simple 14.ba955d0e4ca73a916276.png",
     "static/media/ProductHeader.png": "/john/static/media/ProductHeader.5ecd6da20484fde19c8c.png",
     "static/media/CompanyLogo.png": "/john/static/media/CompanyLogo.fa734208bc20a4a5b0e1.png",
     "static/media/Rectangle 153.png": "/john/static/media/Rectangle 153.497f2b2da775251b6a86.png",
     "static/media/ri_capsule-fill.svg": "/john/static/media/ri_capsule-fill.d40a770c8a20f1022f4a1bc018f72394.svg",
     "index.html": "/john/index.html",
-    "main.31df683e.css.map": "/john/static/css/main.31df683e.css.map",
-    "main.b61c4ee2.js.map": "/john/static/js/main.b61c4ee2.js.map",
+    "main.5063f3a5.css.map": "/john/static/css/main.5063f3a5.css.map",
+    "main.6fd468a0.js.map": "/john/static/js/main.6fd468a0.js.map",
     "787.a453ccac.chunk.js.map": "/john/static/js/787.a453ccac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31df683e.css",
-    "static/js/main.b61c4ee2.js"
+    "static/css/main.5063f3a5.css",
+    "static/js/main.6fd468a0.js"
   ]
 }
