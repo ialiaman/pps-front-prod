@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.18c562b0.css",
-    "main.js": "/static/js/main.291ef287.js",
+    "main.css": "/static/css/main.a72c2cc6.css",
+    "main.js": "/static/js/main.e245c5b0.js",
     "static/js/787.a453ccac.chunk.js": "/static/js/787.a453ccac.chunk.js",
     "static/media/Group58.png": "/static/media/Group58.e8cf79d05e9b10e34aa4.png",
     "static/media/Group 70.png": "/static/media/Group 70.5984372625aa031dfdce.png",
@@ -34,6 +34,7 @@
     "static/media/image4.png": "/static/media/image4.8a9a73386c3151bf8485.png",
     "static/media/Group57.png": "/static/media/Group57.2def434b5798a90bfcf2.png",
     "static/media/B11.png": "/static/media/B11.53d821aba2daab2a21e5.png",
+    "static/media/Group 69.png": "/static/media/Group 69.1f3b4cc2b4870a7c9225.png",
     "static/media/Rectangle192.png": "/static/media/Rectangle192.a3a26e19e474b6e78bc7.png",
     "static/media/box logo.png": "/static/media/box logo.da30cd6935bb5b29afb9.png",
     "static/media/image15.png": "/static/media/image15.e7c224d888e5d792cebb.png",
@@ -65,12 +66,12 @@
     "static/media/Rectangle 153.png": "/static/media/Rectangle 153.497f2b2da775251b6a86.png",
     "static/media/ri_capsule-fill.svg": "/static/media/ri_capsule-fill.d40a770c8a20f1022f4a1bc018f72394.svg",
     "index.html": "/index.html",
-    "main.18c562b0.css.map": "/static/css/main.18c562b0.css.map",
-    "main.291ef287.js.map": "/static/js/main.291ef287.js.map",
+    "main.a72c2cc6.css.map": "/static/css/main.a72c2cc6.css.map",
+    "main.e245c5b0.js.map": "/static/js/main.e245c5b0.js.map",
     "787.a453ccac.chunk.js.map": "/static/js/787.a453ccac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18c562b0.css",
-    "static/js/main.291ef287.js"
+    "static/css/main.a72c2cc6.css",
+    "static/js/main.e245c5b0.js"
   ]
 }
